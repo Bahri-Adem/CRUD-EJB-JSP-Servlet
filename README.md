@@ -30,3 +30,13 @@ Ce projet a été réalisé dans le cadre d'un cours pour développer un CRUD (C
 4. Démarrez le serveur web et accédez à l'application dans votre navigateur.
 5. Utilisez l'interface pour gérer les clients et les comptes.
 6. Pour la suppression d'un compte ou d'un client, un contrôle sera affiché grâce à Sweet Alert pour confirmer l'action avant de la finaliser.
+
+![Javascripteffect](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/68110f97-bf9e-47a0-905d-52ec9d62cb1f)
+
+![acceulaccount](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/c6989107-76c6-42df-b44d-3997ef602f7c)
+
+![DeleteAjax](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/2b363663-ebbb-4aaa-b60b-45d9df50c80d)
+
+![Swal](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/0cbbe696-a4f5-49fa-bfd9-7f25664f485f)
+
+![AcceuilClient](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/2d6f28cd-b87c-4ac8-98c0-0e83c6c982a8)
