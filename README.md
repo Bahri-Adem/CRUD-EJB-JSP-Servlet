@@ -14,8 +14,6 @@ Ce projet a été réalisé dans le cadre d'un cours pour développer un CRUD (C
   - Mise à jour des informations d'un compte existant.
   - Suppression d'un compte existant.
 ##
-##
-##
 ## <a name="_ye46hbgbfgkn"></a><a name="_232g0kuslxtf"></a><a name="_rz1tz6758687"></a><a name="_yh628y6uy6yl"></a>**Technologies utilisées**
 - Java
 - JSP (JavaServer Pages)
@@ -27,8 +25,8 @@ Ce projet a été réalisé dans le cadre d'un cours pour développer un CRUD (C
 - jQuery UI Autocomplete -[ ](https://www.codeproject.com/Articles/152558/jQuery-UI-Autocomplete-with-ID)[Documentation](https://www.codeproject.com/Articles/152558/jQuery-UI-Autocomplete-with-ID)
 ## <a name="_hlkr8ztd200n"></a>**Instructions pour l'utilisation**
 1. Clonez ce dépôt dans votre environnement de développement.
-1. Configurez votre serveur web (par exemple, Apache Tomcat) pour exécuter le projet Java.
-1. Importez la base de données fournie (database.sql) pour créer la structure de la base de données.
-1. Démarrez le serveur web et accédez à l'application dans votre navigateur.
-1. Utilisez l'interface pour gérer les clients et les comptes.
-1. Pour la suppression d'un compte ou d'un client, un contrôle sera affiché grâce à Sweet Alert pour confirmer l'action avant de la finaliser.
+2. Configurez votre serveur web (par exemple, Apache Tomcat) pour exécuter le projet Java.
+3. Importez la base de données fournie (database.sql) pour créer la structure de la base de données.
+4. Démarrez le serveur web et accédez à l'application dans votre navigateur.
+5. Utilisez l'interface pour gérer les clients et les comptes.
+6. Pour la suppression d'un compte ou d'un client, un contrôle sera affiché grâce à Sweet Alert pour confirmer l'action avant de la finaliser.
