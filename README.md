@@ -41,5 +41,6 @@ Ce projet a été réalisé dans le cadre d'un cours pour développer un CRUD (C
 
 ![Swal](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/0cbbe696-a4f5-49fa-bfd9-7f25664f485f)
 
+![Table des Comptes - Google Chrome 11_05_2023 22_18_20 (2)](https://github.com/Bahri-Adem/CRUD-EJB-JSP-Servlet/assets/103949052/cdd80eb8-9837-4846-b799-1cb758f3d264)
 
 
